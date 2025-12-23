@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Architect",
+  "description": "A sophisticated AI prompt engineering platform that helps users create perfectly structured prompts for any AI model using advanced reasoning and styling options.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
